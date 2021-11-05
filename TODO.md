@@ -10,6 +10,7 @@
 # Logic
  - Character controller
  - Death/respawn
+ - Camera shake on impact
 
 # Super powers
  - Random teleport
